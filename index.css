@@ -1,0 +1,41 @@
+.container-fluid{
+    text-align: center;
+    height: 30%;
+    padding-left: 5px;
+    color: white;
+   font-family:"Fugaz One";
+
+}
+
+#btn{
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+     
+}
+#resetbtn{
+    height: 30px;
+    border-radius: 5px;
+    padding-top: 5px;
+  
+
+}
+#searchtext{
+   
+    border-radius: 20px;
+
+    
+}
+
+
+.container{
+    color:black;
+    margin-bottom: 40px;
+   
+    
+}
+body{
+    background-image: linear-gradient(to right,rgb(30, 122, 136),rgb(21, 119, 78));    
+}
